@@ -1,26 +1,34 @@
 # COLORS
-
 background = #141820
 foreground = #a8b5d1
 selection-background = #283457
 selection-foreground = #a8b5d1
 
+# black
 palette = 0=#15161e
-palette = 1=#f7768e
-palette = 2=#34febb
-palette = 3=#ffbf7a
-palette = 4=#82aaff
-palette = 5=#c792ea
-palette = 6=#4ff2f8
-palette = 7=#99a3b8
 palette = 8=#506686
+# red
+palette = 1=#f7768e
 palette = 9=#f7768e
+# green
+palette = 2=#34febb
 palette = 10=#34febb
+# yellow
+palette = 3=#ffbf7a
 palette = 11=#ffbf7a
+# blue
+palette = 4=#82aaff
 palette = 12=#82aaff
+# purple
+palette = 5=#c792ea
 palette = 13=#c792ea
+# aqua
+palette = 6=#4ff2f8
 palette = 14=#4ff2f8
-palette = 15=#a8b5d1
+# white
+palette = 7=#7c8eac
+palette = 15=#c5cee0
+# extra
 palette = 16=#ffbf7a
 palette = 17=#ff5874
 
