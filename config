@@ -1,5 +1,7 @@
 # COLORS
-background = #141820
+background = #24283b
+# if you prefer the dark background, use this line instead:
+# background = #141820
 foreground = #a8b5d1
 selection-background = #283457
 selection-foreground = #a8b5d1
