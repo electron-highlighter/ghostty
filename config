@@ -16,8 +16,8 @@ palette = 9=#f7768e
 palette = 2=#34febb
 palette = 10=#34febb
 # yellow
-palette = 3=#ffbf7a
-palette = 11=#ffbf7a
+palette = 3=#ffd9af
+palette = 11=#ffd9af
 # blue
 palette = 4=#82aaff
 palette = 12=#82aaff
@@ -31,7 +31,7 @@ palette = 14=#4ff2f8
 palette = 7=#7c8eac
 palette = 15=#c5cee0
 # extra
-palette = 16=#ffbf7a
+palette = 16=#ffd9af
 palette = 17=#ff5874
 
 # CURSOR
