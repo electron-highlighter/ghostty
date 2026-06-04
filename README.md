@@ -13,3 +13,9 @@ theme = electron-highlighter
 Alternatively, you can copy the individual properties from the `config` file and modify them if you would like.
 
 Enjoy! :heart:
+
+## Electron Highlighter Day (light)
+
+A light variant is available alongside the dark theme. Use the `electron-highlighter-day` file in this
+folder the same way you use the dark one. The Day files are generated from the `palette/` repo —
+edit the palette there and run `npm run build` to regenerate.
